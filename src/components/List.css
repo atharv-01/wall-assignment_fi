@@ -1,0 +1,136 @@
+.list {
+    background-color: #1A1D1F;
+    display: flex;
+    flex-direction: column;
+}
+
+.proof {
+    width: 208px;
+    height: 48px;
+    padding: 8px 16px 8px 16px;
+    border-radius: 12px;
+    gap: 8px;
+    background-color: #065F46;
+    margin-top: 8px;
+    display: flex;
+    justify-content: left;
+
+}
+
+.shield {
+    width: 25px;
+    height: 25px;
+    background-color: #065F46;
+
+}
+
+.proofTextBox {
+    width: 51px;
+    height: 28px;
+    margin-left: 14px;
+
+}
+
+.proofText {
+
+    background-color: #065F46;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    color: #FFFFFF;
+
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.waitlist {
+    width: 208px;
+    height: 33px;
+    padding: 8px 16px 8px 16px;
+    border-radius: 12px;
+    gap: 8px;
+    margin-top: 8px;
+    display: flex;
+    justify-content: left;
+    background-color: #1A1D1F;
+}
+
+.giftbox {
+    width: 40px;
+    height: 40px;
+    background-color: #1A1D1F;
+
+}
+
+.waitlistBox {
+    width: 70px;
+    height: 28px;
+
+
+}
+
+.waitlistText {
+
+
+    font-size: 20px;
+    color: #C8CBCC;
+    background-color: #1A1D1F;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.nft {
+    width: 208px;
+    height: 48px;
+    gap: 8px;
+    padding: 8px 16px 8px 16px;
+    border-radius: 12px;
+    margin-top: 8px;
+
+    background-color: #065F46;
+
+    margin-bottom: 8px;
+    display: flex;
+    justify-content: left;
+}
+
+.hexagon {
+    width: 20.000165939331055px;
+    height: 20.848329544067383px;
+    top: 1.5758056640625px;
+    left: 2px;
+    background-color: #065F46;
+
+}
+
+.nftTextbox {
+    width: 39px;
+    height: 28px;
+    background-color: #065F46;
+    margin-left: 20px;
+
+}
+
+.nftText {
+
+    font-size: 20px;
+    font-weight: 500;
+    color: #FFFFFF;
+    background-color: #065F46;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.image {
+    margin-left: 5px;
+    width: 13px;
+    height: 16px;
+    background-color: #065F46;
+    margin-top: 8px
+}

@@ -1,0 +1,56 @@
+.questBox {
+    width: 1200px;
+    height: 48px;
+    padding: 0px 0px 0px 0px;
+    gap: 16px;
+    background-color: #000000;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.quest {
+    width: 876px;
+    height: 48px;
+    padding: 0px 39px 0px 0px;
+    gap: 24px;
+    background-color: #000000;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #C8CBCC;
+}
+
+.search {
+    margin-right: 7px;
+    width: 264px;
+    height: 24px;
+    padding: 12px 26px 12px 8px;
+    border-radius: 8px;
+    background-color: #fff;
+    gap: 8px;
+    display: flex;
+    flex-direction: row;
+    background-color: #27272A;
+
+}
+
+.searchBox {
+    width: 198px;
+    height: 24px;
+
+
+}
+
+.searchSymbol {
+    width: 24px;
+    height: 24px;
+
+}
+
+.placeholder {
+    border: none;
+}

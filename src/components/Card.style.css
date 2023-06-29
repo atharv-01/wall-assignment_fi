@@ -1,0 +1,105 @@
+/* .card-container {
+    display: block;
+    background-color: #f6f9f9;
+    border: 1px solid grey;
+} */
+
+.project-name {
+    color: rgb(253, 253, 253);
+}
+
+.card {
+    width: 335px;
+    height: 265px;
+    background-color: #111315;
+    border-radius: 12px;
+    padding: 12px;
+    gap: 16px;
+
+    display: absolute;
+
+}
+
+.card-name {
+    width: 336px;
+    height: 28px;
+    gap: 8px;
+
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    background-color: #111315;
+
+
+}
+
+.card-container {
+    background-color: #111315;
+}
+
+.upperHead {
+    background-color: #111315;
+    color: white;
+}
+
+.picture {
+    width: 94px;
+    height: 94px;
+    border-radius: 12px;
+    border: 1px;
+}
+
+.pic {
+    width: 94px;
+    height: 94px;
+    border-radius: 12px;
+    border: 1px;
+}
+
+.desc {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    background-color: #111315;
+}
+
+.description {
+    width: 230px;
+    height: 94px;
+    gap: 4px;
+    font-size: 16px;
+
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.16px;
+    color: #C8CBCC;
+    background-color: #111315;
+}
+
+.lowerPart {
+    width: 315px;
+    height: Hug 24px;
+    gap: 30px;
+    background-color: #111315;
+
+
+}
+
+.image {
+    width: 100px;
+    height: 16px;
+
+}
+
+.img,
+.ind {
+    background-color: #111315;
+}
+
+.ind {
+    color: white;
+}

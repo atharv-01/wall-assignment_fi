@@ -1,0 +1,41 @@
+.hero {
+    width: 1200px;
+    height: 1196px;
+    top: -432px;
+    left: -601px;
+    margin-left: 24px;
+    background-color: #fff;
+}
+
+.emptSpace {
+    width: 1200px;
+    height: 48px;
+    gap: 16px;
+    background-color: #000000;
+}
+
+.heroContent {
+    width: 1200px;
+    height: 916px;
+    gap: 24px;
+    background-color: #fff;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+}
+
+.main {
+    max-width: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gap {
+    width: 1200px;
+    height: 24px;
+    background-color:
+        #000000;
+}

@@ -1,0 +1,27 @@
+.dropdwn {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    border-radius: 12px;
+    margin-left: 53px;
+    margin-top: -173px;
+    position: absolute;
+    border: 1px solid var(--base-shade-0440, rgba(111, 118, 126, 0.40));
+    border-radius: 6px;
+    color: var(--base-02, #C8CBCC);
+}
+
+.moreBtn {
+    border: 1px solid var(--base-shade-0440, rgba(111, 118, 126, 0.40));
+    border-radius: 6px;
+    color: var(--base-02, #C8CBCC);
+    position: absolute;
+    margin-left: 64px;
+}
+
+.btn2 {
+    gap: 12px;
+    border: 1px solid var(--base-shade-0440, rgba(111, 118, 126, 0.40));
+    border-radius: 6px;
+    color: var(--base-02, #C8CBCC);
+}

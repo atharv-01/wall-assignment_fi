@@ -1,0 +1,19 @@
+.sidebar {
+    width: 240px;
+    height: 252px;
+    margin-top: 154px;
+    background: #1A1D1F;
+
+    padding: 16px;
+    border-radius: 16px;
+    gap: 8px;
+
+}
+
+.line {
+    /* margin-top: 4px; */
+    width: 208px;
+    border: 1px solid #272B30;
+    display: flex;
+    justify-content: center;
+}

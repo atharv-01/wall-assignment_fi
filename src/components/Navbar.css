@@ -1,0 +1,36 @@
+.buttons {
+    padding-left: 24px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    background-color:
+        #000000;
+    gap: 5px;
+
+}
+
+.dropdown {
+    display: flex;
+    position: absolute;
+    margin-left: 166px;
+    margin-top: -9px;
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    background-color: black;
+    border-radius: 12px;
+    background-color:
+        #000000;
+    padding-left: 5px;
+
+}
+
+.btn {
+    gap: 8px;
+    border: 1px solid var(--base-shade-0440, rgba(111, 118, 126, 0.40));
+    border-radius: 6px;
+    color: var(--base-02, #C8CBCC);
+}

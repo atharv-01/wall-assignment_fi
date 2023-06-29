@@ -1,0 +1,11 @@
+* {
+  background-color: #27272A;
+  /* display: flex; */
+  /* flex-direction: row; */
+}
+
+.App {
+  display: flex;
+  flex-direction: row;
+
+}
